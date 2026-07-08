@@ -1,0 +1,70 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0F172A"/>
+      <stop offset="0.45" stop-color="#1E3A8A"/>
+      <stop offset="1" stop-color="#0E7490"/>
+    </linearGradient>
+    <radialGradient id="r1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(930 90) rotate(130) scale(300)">
+      <stop stop-color="#67E8F9" stop-opacity="0.75"/>
+      <stop offset="1" stop-color="#67E8F9" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="r2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(220 260) rotate(20) scale(260)">
+      <stop stop-color="#A78BFA" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#A78BFA" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#000000" flood-opacity="0.25"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="320" rx="28" fill="url(#g)"/>
+  <rect width="1200" height="320" rx="28" fill="url(#r1)"/>
+  <rect width="1200" height="320" rx="28" fill="url(#r2)"/>
+
+  <g opacity="0.18">
+    <path d="M80 60 H1120" stroke="white"/>
+    <path d="M80 110 H1120" stroke="white"/>
+    <path d="M80 160 H1120" stroke="white"/>
+    <path d="M80 210 H1120" stroke="white"/>
+    <path d="M80 260 H1120" stroke="white"/>
+    <path d="M160 35 V285" stroke="white"/>
+    <path d="M320 35 V285" stroke="white"/>
+    <path d="M480 35 V285" stroke="white"/>
+    <path d="M640 35 V285" stroke="white"/>
+    <path d="M800 35 V285" stroke="white"/>
+    <path d="M960 35 V285" stroke="white"/>
+  </g>
+
+  <g filter="url(#shadow)">
+    <rect x="70" y="58" width="1060" height="205" rx="24" fill="white" fill-opacity="0.09" stroke="white" stroke-opacity="0.28"/>
+  </g>
+
+  <text x="95" y="118" fill="white" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="42" font-weight="800">
+    John Zhou
+  </text>
+  <text x="95" y="162" fill="#DBEAFE" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="23" font-weight="600">
+    AI Agents · Automation · Research Tools · Applied STEM
+  </text>
+  <text x="95" y="207" fill="#E0F2FE" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18">
+    Building structured systems from real-world problems: OCR, CV, RL, dashboards, music tech, and scientific modeling.
+  </text>
+
+  <g transform="translate(874 78)">
+    <rect x="0" y="0" width="204" height="44" rx="22" fill="#111827" fill-opacity="0.45" stroke="white" stroke-opacity="0.25"/>
+    <text x="22" y="29" fill="white" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700">github.com/jzjzzzzzzz</text>
+  </g>
+
+  <g transform="translate(850 158)" opacity="0.95">
+    <circle cx="28" cy="28" r="10" fill="#67E8F9"/>
+    <circle cx="92" cy="28" r="10" fill="#A78BFA"/>
+    <circle cx="156" cy="28" r="10" fill="#FDE68A"/>
+    <path d="M38 28 H82" stroke="white" stroke-width="4" stroke-linecap="round" opacity="0.8"/>
+    <path d="M102 28 H146" stroke="white" stroke-width="4" stroke-linecap="round" opacity="0.8"/>
+    <path d="M28 38 C40 80 142 80 156 38" stroke="white" stroke-width="4" stroke-linecap="round" opacity="0.7"/>
+  </g>
+
+  <text x="95" y="248" fill="#BAE6FD" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="700">
+    SCHEMAS · VALIDATION · BENCHMARKS · REAL USE
+  </text>
+</svg>
