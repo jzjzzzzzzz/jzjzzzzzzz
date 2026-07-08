@@ -113,42 +113,50 @@ Clear schemas · safe defaults · reproducible examples · readable docs · test
 ## GitHub Statistics
 
 <p align="center">
-  <img 
-    height="170" 
-    src="https://github-readme-stats.vercel.app/api?username=jzjzzzzzzz&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" 
-    alt="GitHub stats" 
-  />
-  <img 
-    height="170" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jzjzzzzzzz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" 
-    alt="Top languages" 
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jzjzzzzzzz&theme=tokyonight"
+    alt="GitHub profile summary"
+    width="100%"
   />
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=jzjzzzzzzz&theme=tokyonight&hide_border=true" 
-    alt="GitHub streak" 
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jzjzzzzzzz&theme=tokyonight"
+    alt="GitHub stats"
+    height="180"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jzjzzzzzzz&theme=tokyonight&utcOffset=-5"
+    alt="Productive time"
+    height="180"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jzjzzzzzzz&theme=tokyonight"
+    alt="Top languages by repository"
+    height="180"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jzjzzzzzzz&theme=tokyonight"
+    alt="Top languages by commit"
+    height="180"
   />
 </p>
 
 ---
-
 ## Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jzjzzzzzzz&hide_border=true&area=true" alt="Contribution activity graph" />
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=jzjzzzzzzz&theme=tokyo-night&hide_border=true&area=true" 
+    alt="Contribution activity graph" 
+    width="100%" 
+  />
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jzjzzzzzzz/jzjzzzzzzz/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jzjzzzzzzz/jzjzzzzzzz/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/jzjzzzzzzz/jzjzzzzzzz/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
-
----
 
 ## How I Build
 
