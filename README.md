@@ -156,7 +156,27 @@ Clear schemas · safe defaults · reproducible examples · readable docs · test
     width="100%" 
   />
 </p>
+---
 
+## Contribution Snake
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/jzjzzzzzzz/jzjzzzzzzz/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/jzjzzzzzzz/jzjzzzzzzz/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub contribution snake animation"
+      src="https://raw.githubusercontent.com/jzjzzzzzzz/jzjzzzzzzz/output/github-contribution-grid-snake.svg"
+      width="100%"
+    />
+  </picture>
+</p>
 
 ## How I Build
 
