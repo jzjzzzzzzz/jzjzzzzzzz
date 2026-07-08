@@ -113,12 +113,23 @@ Clear schemas · safe defaults · reproducible examples · readable docs · test
 ## GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jzjzzzzzzz&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jzjzzzzzzz&layout=compact&hide_border=true" alt="Top languages" />
+  <img 
+    height="170" 
+    src="https://github-readme-stats.vercel.app/api?username=jzjzzzzzzz&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" 
+    alt="GitHub stats" 
+  />
+  <img 
+    height="170" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jzjzzzzzzz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" 
+    alt="Top languages" 
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=jzjzzzzzzz&hide_border=true" alt="GitHub streak" />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=jzjzzzzzzz&theme=tokyonight&hide_border=true" 
+    alt="GitHub streak" 
+  />
 </p>
 
 ---
