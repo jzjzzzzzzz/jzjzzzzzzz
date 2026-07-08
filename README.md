@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./assets/banner.svg" alt="JZ profile banner" width="100%" />
-</p>
-
 <h1 align="center">Hi, I'm John Zhou 👋</h1>
 
 <p align="center">
@@ -10,7 +6,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-main-informational?logo=python" />
-  <img src="https://img.shields.io/badge/Java-FTC%20Robotics-informational?logo=openjdk" />
+  <img src="https://img.shields.io/badge/Java-Spring%20RBoot-informational?logo=openjdk" />
   <img src="https://img.shields.io/badge/Computer%20Vision-OpenCV-informational?logo=opencv" />
   <img src="https://img.shields.io/badge/Automation-OCR%20%2B%20UI-informational" />
   <img src="https://img.shields.io/badge/Research-Simulation%20%2B%20Modeling-informational" />
