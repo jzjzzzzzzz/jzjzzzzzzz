@@ -27,9 +27,7 @@
 
 | Link | Description |
 |------|-------------|
-| [jz-ai-chat.com](https://jz-ai-chat.com) | Portfolio website (neon dark theme, project showcase) |
-| [Resume](https://jz-ai-chat.com/resume/) | Full CV — education, research, awards, skills |
-| [Resume (DOCX)](https://jz-ai-chat.com/resume/Zhixuan_Zhou_Resume.docx) | Downloadable resume |
+| [jz-ai-chat.com](https://jz-ai-chat.com) | Portfolio website — project showcase |
 | [Dashboard](https://jz-ai-chat.com/dashboard/) | Real-time data dashboard (HN / GitHub / Crypto / RSS, 1s refresh) |
 
 ---
@@ -202,7 +200,6 @@ Clear schemas · safe defaults · reproducible examples · readable docs · test
 
 ## Contact
 
-- Portfolio: [jz-ai-chat.com](https://jz-ai-chat.com)
-- Resume: [jz-ai-chat.com/resume](https://jz-ai-chat.com/resume/)
+- Website: [jz-ai-chat.com](https://jz-ai-chat.com)
 - Email: [johnzhou811@gmail.com](mailto:johnzhou811@gmail.com)
 - GitHub: [@jzjzzzzzzz](https://github.com/jzjzzzzzzz)
