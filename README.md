@@ -23,6 +23,17 @@
 
 ---
 
+## Live Links
+
+| Link | Description |
+|------|-------------|
+| [jz-ai-chat.com](https://jz-ai-chat.com) | Portfolio website (neon dark theme, project showcase) |
+| [Resume](https://jz-ai-chat.com/resume/) | Full CV — education, research, awards, skills |
+| [Resume (DOCX)](https://jz-ai-chat.com/resume/Zhixuan_Zhou_Resume.docx) | Downloadable resume |
+| [Dashboard](https://jz-ai-chat.com/dashboard/) | Real-time data dashboard (HN / GitHub / Crypto / RSS, 1s refresh) |
+
+---
+
 ## About Me
 
 I am a student at **Princeton International School of Mathematics and Science**.  
@@ -191,4 +202,7 @@ Clear schemas · safe defaults · reproducible examples · readable docs · test
 
 ## Contact
 
-The best way to reach me is through GitHub issues or discussions on one of my project repositories.
+- Portfolio: [jz-ai-chat.com](https://jz-ai-chat.com)
+- Resume: [jz-ai-chat.com/resume](https://jz-ai-chat.com/resume/)
+- Email: [johnzhou811@gmail.com](mailto:johnzhou811@gmail.com)
+- GitHub: [@jzjzzzzzzz](https://github.com/jzjzzzzzzz)
