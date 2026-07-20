@@ -204,3 +204,4 @@ Clear schemas · safe defaults · reproducible examples · readable docs · test
 - Email: [johnzhou811@gmail.com](mailto:johnzhou811@gmail.com)
 - GitHub: [@jzjzzzzzzz](https://github.com/jzjzzzzzzz)
 - Phone: `13046621885` or `6092352723`
+- WeChat: `Johnzhou2010`
