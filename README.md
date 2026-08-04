@@ -203,5 +203,6 @@ Clear schemas · safe defaults · reproducible examples · readable docs · test
 - Website: [jz-ai-chat.com](https://jz-ai-chat.com)
 - Email: [johnzhou811@gmail.com](mailto:johnzhou811@gmail.com)
 - GitHub: [@jzjzzzzzzz](https://github.com/jzjzzzzzzz)
+- Ethereum support address: `0x3bfF60b4e21DBC63a2B83d82DFEA2fCB645fBAB3`
 - Phone: `13046621885` or `6092352723`
 - WeChat: `Johnzhou2010`
