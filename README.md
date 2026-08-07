@@ -50,6 +50,26 @@ My main interests are:
 
 ## Project Map
 
+### New Builds & Developer Tools
+
+- [**dot-studio**](https://github.com/jzjzzzzzzz/dot-studio) - A local-first content console for composing text, images, Canvas dashboards, device status views, and project-local Codex completion notifications. | `TypeScript` `Next.js` `Canvas` `E-Ink`
+- [**IntentForge**](https://github.com/jzjzzzzzzz/IntentForge) - An intent-preserving deterministic CAD pipeline for editable, explainable, and validated CadQuery models. | `Python` `CAD` `CadQuery` `MCP`
+- [**IntentForge-ai-review**](https://github.com/jzjzzzzzzz/IntentForge-ai-review) - A deterministic engineering-review workspace for checking CAD intent, evidence, and validation results. | `Python` `CAD` `Engineering` `Validation`
+- [**homebrew-intentforge**](https://github.com/jzjzzzzzzz/homebrew-intentforge) - A Homebrew tap for installing the IntentForge CLI. | `Ruby` `Homebrew` `CLI`
+- [**pcr532-development-platform**](https://github.com/jzjzzzzzzz/pcr532-development-platform) - A browser-based Web Serial platform for PCR532/PN532 diagnostics, NFC card reading, and MIFARE Classic writing. | `TypeScript` `Web Serial` `NFC` `RFID`
+- [**verivc**](https://github.com/jzjzzzzzzz/verivc) - An evidence-driven startup due-diligence copilot that preserves provenance, uncertainty, and human oversight. | `TypeScript` `AI` `Evidence` `Due Diligence`
+- [**github-actions**](https://github.com/jzjzzzzzzz/github-actions) - A FastAPI Todo API used to learn spec-driven development and GitHub Actions CI/CD workflows. | `Python` `FastAPI` `CI/CD` `GitHub Actions`
+- [**2026vibecoding**](https://github.com/jzjzzzzzzz/2026vibecoding) - A FastAPI Todo API course project for practicing AI-assisted development, testing, and automated delivery. | `Python` `FastAPI` `CI/CD` `SDD`
+
+### Web Apps, Data & Experiments
+
+- [**PlanetPulse**](https://github.com/jzjzzzzzzz/PlanetPulse) - A cinematic 3D environmental-monitoring app with live NASA data, explainable hotspot ranking, and location-aware signals. | `TypeScript` `Next.js` `Three.js` `NASA`
+- [**flight-radar**](https://github.com/jzjzzzzzzz/flight-radar) - A flight-radar web app using live OpenSky aircraft data, a Leaflet map, and a Next.js API proxy. | `TypeScript` `Next.js` `Leaflet` `OpenSky`
+- [**nft-ticket-dapp**](https://github.com/jzjzzzzzzz/nft-ticket-dapp) - A beginner-friendly ERC-721 ticket DApp for Ethereum Sepolia using Solidity, React, ethers, MetaMask, and Remix. | `JavaScript` `Solidity` `React` `Web3`
+- [**auto-typing-humanized**](https://github.com/jzjzzzzzzz/auto-typing-humanized) - A Chrome/Edge extension that simulates natural-looking typing with variable speed, pauses, and corrected nearby-key typos. | `JavaScript` `Browser Extension` `Automation`
+- [**NIM2026-FoodTalks**](https://github.com/jzjzzzzzzz/NIM2026-FoodTalks) - A gas-based visualization system for food-spoilage detection aligned with SDG 12. | `PowerShell` `Visualization` `Food Science` `SDG 12`
+- [**personal-vpn**](https://github.com/jzjzzzzzzz/personal-vpn) - A reproducible comparison of direct, self-hosted WireGuard, and Clash Verge network performance on macOS. | `Networking` `WireGuard` `Benchmarking` `macOS`
+
 ### AI Agents & Automation
 
 - [**wechat-assistant**](https://github.com/jzjzzzzzzz/wechat-assistant) - A macOS Python assistant for safe WeChat UI automation with OCR contact checks, dry-run scheduling, birthday reminders, templates, audit logs, and a Tkinter dashboard. | `Python` `macOS` `OCR` `Tkinter` `Automation`
