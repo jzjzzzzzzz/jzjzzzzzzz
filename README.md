@@ -57,7 +57,7 @@ My main interests are:
 - [**IntentForge-ai-review**](https://github.com/jzjzzzzzzz/IntentForge-ai-review) - A deterministic engineering-review workspace for checking CAD intent, evidence, and validation results. | `Python` `CAD` `Engineering` `Validation`
 - [**homebrew-intentforge**](https://github.com/jzjzzzzzzz/homebrew-intentforge) - A Homebrew tap for installing the IntentForge CLI. | `Ruby` `Homebrew` `CLI`
 - [**pcr532-development-platform**](https://github.com/jzjzzzzzzz/pcr532-development-platform) - A browser-based Web Serial platform for PCR532/PN532 diagnostics, NFC card reading, and MIFARE Classic writing. | `TypeScript` `Web Serial` `NFC` `RFID`
-- [**verivc**](https://github.com/jzjzzzzzzz/verivc) - An evidence-driven startup due-diligence copilot that preserves provenance, uncertainty, and human oversight. | `TypeScript` `AI` `Evidence` `Due Diligence`
+- [**verivc**](https://github.com/jzjzzzzzzz/verivc) - An archived evidence-driven startup due-diligence copilot built for **Global Hack Nation — Track 2**. | `TypeScript` `AI` `Evidence` `Hackathon`
 - [**github-actions**](https://github.com/jzjzzzzzzz/github-actions) - A FastAPI Todo API used to learn spec-driven development and GitHub Actions CI/CD workflows. | `Python` `FastAPI` `CI/CD` `GitHub Actions`
 - [**2026vibecoding**](https://github.com/jzjzzzzzzz/2026vibecoding) - A FastAPI Todo API course project for practicing AI-assisted development, testing, and automated delivery. | `Python` `FastAPI` `CI/CD` `SDD`
 
@@ -82,16 +82,13 @@ My main interests are:
 
 ### Research, Modeling & Sustainability
 
-- [**algae-project**](https://github.com/jzjzzzzzzz/algae-project) - A Python research sandbox for simulating algae growth and training a PPO reinforcement-learning controller over light, nutrients, temperature, ultrasound, and trace elements. | `Python` `RL` `Simulation` `Algae`
-- [**base-algae**](https://github.com/jzjzzzzzzz/base-algae) - A Python research workspace for algae sound-frequency experiments, browser-based tone exposure automation, session logging, and turbidity/lux plotting. | `Python` `Research` `Selenium` `Matplotlib`
-- [**Algae-Growth-RL-learning**](https://github.com/jzjzzzzzzz/Algae-Growth-RL-learning) - A reinforcement-learning project for simulating algae growth and optimizing environmental factors such as light, nutrients, ultrasound, and trace elements. | `Python` `Machine Learning` `Optimization`
+- [**algae-research-toolkit**](https://github.com/jzjzzzzzzz/algae-research-toolkit) - A consolidated, reproducible workspace for normalized algae-growth simulation, PPO experiments, sound-exposure logging, and turbidity/lux analysis. | `Python` `Gymnasium` `RL` `Research`
 - [**nj-nitrate-dashboard**](https://github.com/jzjzzzzzzz/nj-nitrate-dashboard) - A read-only Flask dashboard for precomputed New Jersey nitrate research outputs, including maps, figures, dashboard JSON, and proposal assets. | `HTML` `Flask` `Water Quality` `Dashboard`
 
 ### Music Technology
 
 - [**PDFtoMSCZ**](https://github.com/jzjzzzzzzz/PDFtoMSCZ) - A Python workflow that converts PDF sheet music to editable MuseScore MSCZ files using Audiveris OMR and MuseScore 4. | `Python` `OMR` `MuseScore` `Sheet Music`
-- [**Auto-Music-Transpose**](https://github.com/jzjzzzzzzz/Auto-Music-Transpose) - A Python tool for transposing MuseScore MSCZ files while preserving rhythm, rests, chords, note spelling, key signatures, and optional PDF export. | `Python` `MusicXML` `Music Theory`
-- [**auto-transpose**](https://github.com/jzjzzzzzzz/auto-transpose) - A Python toolkit for MuseScore, SmartScore, MusicXML, PDF, and MSCZ conversion and transposition workflows. | `Python` `MusicXML` `PDF Conversion`
+- [**music-score-toolkit**](https://github.com/jzjzzzzz/music-score-toolkit) - A safe, testable toolkit for MuseScore MSCZ transposition and explicit MuseScore/SmartScore conversion workflows. | `Python` `MSCZ` `MusicXML` `CLI`
 
 ### Tools, Games & Learning Projects
 
