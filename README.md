@@ -54,12 +54,9 @@ My main interests are:
 
 - [**dot-studio**](https://github.com/jzjzzzzzzz/dot-studio) - A local-first content console for composing text, images, Canvas dashboards, device status views, and project-local Codex completion notifications. | `TypeScript` `Next.js` `Canvas` `E-Ink`
 - [**IntentForge**](https://github.com/jzjzzzzzzz/IntentForge) - An intent-preserving deterministic CAD pipeline for editable, explainable, and validated CadQuery models. | `Python` `CAD` `CadQuery` `MCP`
-- [**IntentForge-ai-review**](https://github.com/jzjzzzzzzz/IntentForge-ai-review) - A deterministic engineering-review workspace for checking CAD intent, evidence, and validation results. | `Python` `CAD` `Engineering` `Validation`
 - [**homebrew-intentforge**](https://github.com/jzjzzzzzzz/homebrew-intentforge) - A Homebrew tap for installing the IntentForge CLI. | `Ruby` `Homebrew` `CLI`
 - [**pcr532-development-platform**](https://github.com/jzjzzzzzzz/pcr532-development-platform) - A browser-based Web Serial platform for PCR532/PN532 diagnostics, NFC card reading, and MIFARE Classic writing. | `TypeScript` `Web Serial` `NFC` `RFID`
-- [**verivc**](https://github.com/jzjzzzzzzz/verivc) - An archived evidence-driven startup due-diligence copilot built for **Global Hack Nation — Track 2**. | `TypeScript` `AI` `Evidence` `Hackathon`
 - [**github-actions**](https://github.com/jzjzzzzzzz/github-actions) - A FastAPI Todo API used to learn spec-driven development and GitHub Actions CI/CD workflows. | `Python` `FastAPI` `CI/CD` `GitHub Actions`
-- [**2026vibecoding**](https://github.com/jzjzzzzzzz/2026vibecoding) - A FastAPI Todo API course project for practicing AI-assisted development, testing, and automated delivery. | `Python` `FastAPI` `CI/CD` `SDD`
 
 ### Web Apps, Data & Experiments
 
@@ -88,7 +85,7 @@ My main interests are:
 ### Music Technology
 
 - [**PDFtoMSCZ**](https://github.com/jzjzzzzzzz/PDFtoMSCZ) - A Python workflow that converts PDF sheet music to editable MuseScore MSCZ files using Audiveris OMR and MuseScore 4. | `Python` `OMR` `MuseScore` `Sheet Music`
-- [**music-score-toolkit**](https://github.com/jzjzzzzz/music-score-toolkit) - A safe, testable toolkit for MuseScore MSCZ transposition and explicit MuseScore/SmartScore conversion workflows. | `Python` `MSCZ` `MusicXML` `CLI`
+- [**music-score-toolkit**](https://github.com/jzjzzzzzzz/music-score-toolkit) - A safe, testable toolkit for MuseScore MSCZ transposition and explicit MuseScore/SmartScore conversion workflows. | `Python` `MSCZ` `MusicXML` `CLI`
 
 ### Tools, Games & Learning Projects
 
