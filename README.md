@@ -105,7 +105,7 @@ Clear schemas · safe defaults · reproducible examples · readable docs · test
 
 ---
 
-## GitHub Statistics
+## GitHub Activity
 
 <p align="center">
   <img
@@ -114,46 +114,6 @@ Clear schemas · safe defaults · reproducible examples · readable docs · test
     width="100%"
   />
 </p>
-
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jzjzzzzzzz&theme=tokyonight"
-    alt="GitHub stats"
-    height="180"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jzjzzzzzzz&theme=tokyonight&utcOffset=-5"
-    alt="Productive time"
-    height="180"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jzjzzzzzzz&theme=tokyonight"
-    alt="Top languages by repository"
-    height="180"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jzjzzzzzzz&theme=tokyonight"
-    alt="Top languages by commit"
-    height="180"
-  />
-</p>
-
----
-## Contribution Activity
-
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=jzjzzzzzzz&theme=tokyo-night&hide_border=true&area=true" 
-    alt="Contribution activity graph" 
-    width="100%" 
-  />
-</p>
----
-
-## Contribution Snake
 
 <p align="center">
   <picture>
@@ -172,6 +132,8 @@ Clear schemas · safe defaults · reproducible examples · readable docs · test
     />
   </picture>
 </p>
+
+---
 
 ## How I Build
 
