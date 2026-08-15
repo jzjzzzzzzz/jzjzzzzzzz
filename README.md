@@ -28,7 +28,6 @@
 | Link | Description |
 |------|-------------|
 | [jz-ai-chat.com](https://jz-ai-chat.com) | Portfolio website — project showcase |
-| [Dashboard](https://jz-ai-chat.com/dashboard/) | Real-time data dashboard (HN / GitHub / Crypto / RSS, 1s refresh) |
 
 ---
 
