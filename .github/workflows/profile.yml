@@ -1,0 +1,32 @@
+name: Validate profile
+
+on:
+  pull_request:
+    paths:
+      - README.md
+      - scripts/validate_profile.py
+      - .github/workflows/profile.yml
+  push:
+    branches:
+      - main
+    paths:
+      - README.md
+      - scripts/validate_profile.py
+      - .github/workflows/profile.yml
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v6
+
+      - name: Validate curated repository links
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 scripts/validate_profile.py README.md
