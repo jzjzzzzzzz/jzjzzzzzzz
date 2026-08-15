@@ -105,7 +105,7 @@ Clear schemas · safe defaults · reproducible examples · readable docs · test
 
 ---
 
-## GitHub Statistics
+## GitHub Activity
 
 <p align="center">
   <img
@@ -114,46 +114,6 @@ Clear schemas · safe defaults · reproducible examples · readable docs · test
     width="100%"
   />
 </p>
-
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jzjzzzzzzz&theme=tokyonight"
-    alt="GitHub stats"
-    height="180"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jzjzzzzzzz&theme=tokyonight&utcOffset=-5"
-    alt="Productive time"
-    height="180"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jzjzzzzzzz&theme=tokyonight"
-    alt="Top languages by repository"
-    height="180"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jzjzzzzzzz&theme=tokyonight"
-    alt="Top languages by commit"
-    height="180"
-  />
-</p>
-
----
-## Contribution Activity
-
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=jzjzzzzzzz&theme=tokyo-night&hide_border=true&area=true" 
-    alt="Contribution activity graph" 
-    width="100%" 
-  />
-</p>
----
-
-## Contribution Snake
 
 <p align="center">
   <picture>
@@ -173,6 +133,8 @@ Clear schemas · safe defaults · reproducible examples · readable docs · test
   </picture>
 </p>
 
+---
+
 ## How I Build
 
 > Start from a real problem.  
@@ -189,6 +151,3 @@ Clear schemas · safe defaults · reproducible examples · readable docs · test
 - Website: [jz-ai-chat.com](https://jz-ai-chat.com)
 - Email: [johnzhou811@gmail.com](mailto:johnzhou811@gmail.com)
 - GitHub: [@jzjzzzzzzz](https://github.com/jzjzzzzzzz)
-- Ethereum support address: `0x3bfF60b4e21DBC63a2B83d82DFEA2fCB645fBAB3`
-- Phone: `13046621885` or `6092352723`
-- WeChat: `Johnzhou2010`
