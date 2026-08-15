@@ -48,50 +48,22 @@ My main interests are:
 
 ---
 
-## Project Map
+## Selected Projects
 
-### New Builds & Developer Tools
+This profile highlights a small set of active, public repositories. The complete catalog remains available on the [Repositories](https://github.com/jzjzzzzzzz?tab=repositories) tab.
 
-- [**dot-studio**](https://github.com/jzjzzzzzzz/dot-studio) - A local-first content console for composing text, images, Canvas dashboards, device status views, and project-local Codex completion notifications. | `TypeScript` `Next.js` `Canvas` `E-Ink`
-- [**IntentForge**](https://github.com/jzjzzzzzzz/IntentForge) - An intent-preserving deterministic CAD pipeline for editable, explainable, and validated CadQuery models. | `Python` `CAD` `CadQuery` `MCP`
-- [**homebrew-intentforge**](https://github.com/jzjzzzzzzz/homebrew-intentforge) - A Homebrew tap for installing the IntentForge CLI. | `Ruby` `Homebrew` `CLI`
-- [**pcr532-development-platform**](https://github.com/jzjzzzzzzz/pcr532-development-platform) - A browser-based Web Serial platform for PCR532/PN532 diagnostics, NFC card reading, and MIFARE Classic writing. | `TypeScript` `Web Serial` `NFC` `RFID`
-- [**github-actions**](https://github.com/jzjzzzzzzz/github-actions) - A FastAPI Todo API used to learn spec-driven development and GitHub Actions CI/CD workflows. | `Python` `FastAPI` `CI/CD` `GitHub Actions`
-
-### Web Apps, Data & Experiments
-
-- [**PlanetPulse**](https://github.com/jzjzzzzzzz/PlanetPulse) - A cinematic 3D environmental-monitoring app with live NASA data, explainable hotspot ranking, and location-aware signals. | `TypeScript` `Next.js` `Three.js` `NASA`
-- [**flight-radar**](https://github.com/jzjzzzzzzz/flight-radar) - A flight-radar web app using live OpenSky aircraft data, a Leaflet map, and a Next.js API proxy. | `TypeScript` `Next.js` `Leaflet` `OpenSky`
-- [**nft-ticket-dapp**](https://github.com/jzjzzzzzzz/nft-ticket-dapp) - A beginner-friendly ERC-721 ticket DApp for Ethereum Sepolia using Solidity, React, ethers, MetaMask, and Remix. | `JavaScript` `Solidity` `React` `Web3`
-- [**auto-typing-humanized**](https://github.com/jzjzzzzzzz/auto-typing-humanized) - A Chrome/Edge extension that simulates natural-looking typing with variable speed, pauses, and corrected nearby-key typos. | `JavaScript` `Browser Extension` `Automation`
-- [**NIM2026-FoodTalks**](https://github.com/jzjzzzzzzz/NIM2026-FoodTalks) - A gas-based visualization system for food-spoilage detection aligned with SDG 12. | `PowerShell` `Visualization` `Food Science` `SDG 12`
-- [**personal-vpn**](https://github.com/jzjzzzzzzz/personal-vpn) - A reproducible comparison of direct, self-hosted WireGuard, and Clash Verge network performance on macOS. | `Networking` `WireGuard` `Benchmarking` `macOS`
-
-### AI Agents & Automation
-
-- [**wechat-assistant**](https://github.com/jzjzzzzzzz/wechat-assistant) - A macOS Python assistant for safe WeChat UI automation with OCR contact checks, dry-run scheduling, birthday reminders, templates, audit logs, and a Tkinter dashboard. | `Python` `macOS` `OCR` `Tkinter` `Automation`
-- [**wechat-ai-bot**](https://github.com/jzjzzzzzzz/wechat-ai-bot) - A FastAPI backend prototype for WeChat and Enterprise WeChat bot callbacks, local chat testing, URL verification, and encrypted message helpers. | `Python` `FastAPI` `Webhook` `Chatbot`
-- [**internet-meme-radar-skill**](https://github.com/jzjzzzzzzz/internet-meme-radar-skill) - A Codex skill for researching internet memes, slang, viral jokes, short-video trends, and platform-specific cultural references with evidence-based uncertainty. | `Python` `Research` `Skill` `Internet Culture`
-
-### Computer Vision & Decision Support
-
-- [**quehun**](https://github.com/jzjzzzzzzz/quehun) - A Mahjong Soul screen-recognition assistant for tile detection, hand-efficiency analysis, and optional guarded auto-clicking on Windows and macOS. | `Python` `OpenCV` `Computer Vision` `Automation`
-
-### Research, Modeling & Sustainability
-
-- [**algae-research-toolkit**](https://github.com/jzjzzzzzzz/algae-research-toolkit) - A consolidated, reproducible workspace for normalized algae-growth simulation, PPO experiments, sound-exposure logging, and turbidity/lux analysis. | `Python` `Gymnasium` `RL` `Research`
-- [**nj-nitrate-dashboard**](https://github.com/jzjzzzzzzz/nj-nitrate-dashboard) - A read-only Flask dashboard for precomputed New Jersey nitrate research outputs, including maps, figures, dashboard JSON, and proposal assets. | `HTML` `Flask` `Water Quality` `Dashboard`
-
-### Music Technology
-
-- [**PDFtoMSCZ**](https://github.com/jzjzzzzzzz/PDFtoMSCZ) - A Python workflow that converts PDF sheet music to editable MuseScore MSCZ files using Audiveris OMR and MuseScore 4. | `Python` `OMR` `MuseScore` `Sheet Music`
-- [**music-score-toolkit**](https://github.com/jzjzzzzzzz/music-score-toolkit) - A safe, testable toolkit for MuseScore MSCZ transposition and explicit MuseScore/SmartScore conversion workflows. | `Python` `MSCZ` `MusicXML` `CLI`
-
-### Tools, Games & Learning Projects
-
-- [**code-buster**](https://github.com/jzjzzzzzzz/code-buster) - A command-line decoder for Codebusters-style ciphers, including Caesar, affine, Atbash, Vigenere, Morse, Baconian, and substitution search. | `Python` `CLI` `Ciphers`
-- [**fcsgame**](https://github.com/jzjzzzzzzz/fcsgame) - A console-based Python farming, crafting, and survival game prototype with world generation, inventory, exploration, and text-file save data. | `Python` `CLI Game` `World Generation`
-- [**ai-book-video-project**](https://github.com/jzjzzzzzzz/ai-book-video-project) - A Chinese short-video generator for AI web-novel promotion clips, with 9:16 storyboards, narration, subtitles, background audio, and fallback rendering. | `Python` `FFmpeg` `Pillow` `Subtitles`
+| Project | Focus | Stack |
+|---|---|---|
+| [**IntentForge**](https://github.com/jzjzzzzzzz/IntentForge) | Deterministic CAD generation with explicit intent schemas and validation. | `Python` `CadQuery` `MCP` |
+| [**dot-studio**](https://github.com/jzjzzzzzzz/dot-studio) | Local-first console for composing and delivering content to connected displays. | `TypeScript` `Next.js` `Canvas` |
+| [**pcr532-development-platform**](https://github.com/jzjzzzzzzz/pcr532-development-platform) | Browser-based NFC diagnostics, reading, and controlled card-writing workflows. | `TypeScript` `Web Serial` `NFC` |
+| [**wechat-assistant**](https://github.com/jzjzzzzzzz/wechat-assistant) | Guarded macOS automation with OCR verification, dry runs, and audit logs. | `Python` `OCR` `Tkinter` |
+| [**quehun**](https://github.com/jzjzzzzzzz/quehun) | Screen recognition and decision support for Mahjong hand analysis. | `Python` `OpenCV` `Computer Vision` |
+| [**PlanetPulse**](https://github.com/jzjzzzzzzz/PlanetPulse) | Interactive environmental monitoring with live NASA data and explainable ranking. | `TypeScript` `Next.js` `Three.js` |
+| [**algae-research-toolkit**](https://github.com/jzjzzzzzzz/algae-research-toolkit) | Consolidated algae simulation, PPO experiments, exposure logging, and analysis. | `Python` `Gymnasium` `Research` |
+| [**music-score-toolkit**](https://github.com/jzjzzzzzzz/music-score-toolkit) | Testable MuseScore transposition and explicit score-conversion workflows. | `Python` `MSCZ` `MusicXML` |
+| [**PDFtoMSCZ**](https://github.com/jzjzzzzzzz/PDFtoMSCZ) | PDF-to-editable-score workflow using Audiveris OMR and MuseScore 4. | `Python` `OMR` `MuseScore` |
+| [**internet-meme-radar-skill**](https://github.com/jzjzzzzzzz/internet-meme-radar-skill) | Evidence-based research workflow for fast-moving internet culture. | `Python` `Research` `Codex` |
 
 ---
 
