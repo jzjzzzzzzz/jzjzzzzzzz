@@ -28,8 +28,6 @@
 | Destination | Description |
 |---|---|
 | [**jz-ai-chat.com**](https://jz-ai-chat.com) | Live portfolio, project showcase, and interactive agent |
-| [**Agent-Me**](https://github.com/jzjzzzzzzz/agent-me) | Reusable, privacy-conscious framework for grounded Q&A agents |
-| [**Human API**](https://github.com/jzjzzzzzzz/human-api) | Self-hosted OpenAI-compatible API backed by a shared human response queue |
 | [**All repositories**](https://github.com/jzjzzzzzzz?tab=repositories) | Complete public project catalog |
 
 ---
@@ -48,34 +46,6 @@ My main interests are:
 - **Research software** for biology, environmental data, simulation, and modeling
 - **Music technology** for sheet-music conversion, transposition, and workflow automation
 - **Game / CLI tools** that turn algorithms into interactive systems
-
----
-
-## Featured Agent Infrastructure
-
-These projects package the agent architecture behind my work into reusable, privacy-safe foundations that other developers can run and extend.
-
-| Project | Purpose | Highlights |
-|---|---|---|
-| [**Agent-Me**](https://github.com/jzjzzzzzzz/agent-me) | Build a grounded question-answering agent from Markdown knowledge you control. | FastAPI · React · local retrieval · optional OpenAI-compatible provider · 9 interface languages · Docker |
-| [**Human API**](https://github.com/jzjzzzzzzz/human-api) | Expose an OpenAI-compatible endpoint whose responses are written by authorized human responders. | PostgreSQL · atomic claims · stable completion IDs · shared queue · API-key security · audit events |
-
-<p>
-  <a href="https://github.com/jzjzzzzzzz/agent-me/actions/workflows/ci.yml">
-    <img src="https://github.com/jzjzzzzzzz/agent-me/actions/workflows/ci.yml/badge.svg" alt="Agent-Me CI" />
-  </a>
-  <a href="https://github.com/jzjzzzzzzz/agent-me/releases/latest">
-    <img src="https://img.shields.io/github/v/release/jzjzzzzzzz/agent-me?label=Agent-Me" alt="Agent-Me release" />
-  </a>
-  <a href="https://github.com/jzjzzzzzzz/human-api/actions/workflows/ci.yml">
-    <img src="https://github.com/jzjzzzzz/human-api/actions/workflows/ci.yml/badge.svg" alt="Human API CI" />
-  </a>
-  <a href="https://github.com/jzjzzzzz/human-api/releases/latest">
-    <img src="https://img.shields.io/github/v/release/jzjzzzzzzz/human-api?label=Human%20API" alt="Human API release" />
-  </a>
-</p>
-
-Both repositories use clean public histories and contain no production database, private memory, user records, credentials, or deployment secrets.
 
 ---
 
