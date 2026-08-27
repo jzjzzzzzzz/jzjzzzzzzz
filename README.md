@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm John Zhou 👋</h1>
 
 <p align="center">
-  <b>Project-based STEM builder</b><br/>
-  AI Agents · Automation · Research Tools · Computer Vision · Scientific Modeling
+  <b>Open-source AI systems and research software</b><br/>
+  Grounded Agents · Human-in-the-Loop APIs · Automation · Computer Vision · Scientific Modeling
 </p>
 
 <p align="center">
@@ -23,27 +23,59 @@
 
 ---
 
-## Live Links
+## Explore
 
-| Link | Description |
-|------|-------------|
-| [jz-ai-chat.com](https://jz-ai-chat.com) | Portfolio website — project showcase |
+| Destination | Description |
+|---|---|
+| [**jz-ai-chat.com**](https://jz-ai-chat.com) | Live portfolio, project showcase, and interactive agent |
+| [**Agent-Me**](https://github.com/jzjzzzzzzz/agent-me) | Reusable, privacy-conscious framework for grounded Q&A agents |
+| [**Human API**](https://github.com/jzjzzzzzzz/human-api) | Self-hosted OpenAI-compatible API backed by a shared human response queue |
+| [**All repositories**](https://github.com/jzjzzzzzzz?tab=repositories) | Complete public project catalog |
 
 ---
 
 ## About Me
 
 I am a student at **Princeton International School of Mathematics and Science**.  
-I build tools that turn messy real-world problems into structured systems: schemas, validators, simulations, automations, dashboards, and useful software.
+I build open-source systems that turn ambiguous real-world problems into transparent, testable software: typed schemas, retrieval pipelines, human-in-the-loop workflows, validators, simulations, and automation with safe defaults.
 
 My main interests are:
 
-- **AI agents** that can understand one domain deeply instead of only chatting
+- **Grounded AI agents** that answer from inspectable, versioned knowledge
+- **Human-in-the-loop systems** with atomic ownership, audit trails, and protocol-safe outputs
 - **Safe automation** with OCR checks, dry runs, status indicators, and audit logs
 - **Computer vision** for screen recognition and decision support
 - **Research software** for biology, environmental data, simulation, and modeling
 - **Music technology** for sheet-music conversion, transposition, and workflow automation
 - **Game / CLI tools** that turn algorithms into interactive systems
+
+---
+
+## Featured Agent Infrastructure
+
+These projects package the agent architecture behind my work into reusable, privacy-safe foundations that other developers can run and extend.
+
+| Project | Purpose | Highlights |
+|---|---|---|
+| [**Agent-Me**](https://github.com/jzjzzzzzzz/agent-me) | Build a grounded question-answering agent from Markdown knowledge you control. | FastAPI · React · local retrieval · optional OpenAI-compatible provider · 9 interface languages · Docker |
+| [**Human API**](https://github.com/jzjzzzzzzz/human-api) | Expose an OpenAI-compatible endpoint whose responses are written by authorized human responders. | PostgreSQL · atomic claims · stable completion IDs · shared queue · API-key security · audit events |
+
+<p>
+  <a href="https://github.com/jzjzzzzzzz/agent-me/actions/workflows/ci.yml">
+    <img src="https://github.com/jzjzzzzzzz/agent-me/actions/workflows/ci.yml/badge.svg" alt="Agent-Me CI" />
+  </a>
+  <a href="https://github.com/jzjzzzzzzz/agent-me/releases/latest">
+    <img src="https://img.shields.io/github/v/release/jzjzzzzzzz/agent-me?label=Agent-Me" alt="Agent-Me release" />
+  </a>
+  <a href="https://github.com/jzjzzzzzzz/human-api/actions/workflows/ci.yml">
+    <img src="https://github.com/jzjzzzzz/human-api/actions/workflows/ci.yml/badge.svg" alt="Human API CI" />
+  </a>
+  <a href="https://github.com/jzjzzzzz/human-api/releases/latest">
+    <img src="https://img.shields.io/github/v/release/jzjzzzzzzz/human-api?label=Human%20API" alt="Human API release" />
+  </a>
+</p>
+
+Both repositories use clean public histories and contain no production database, private memory, user records, credentials, or deployment secrets.
 
 ---
 
@@ -53,6 +85,8 @@ This profile highlights a small set of active, public repositories. The complete
 
 | Project | Focus | Stack |
 |---|---|---|
+| [**Agent-Me**](https://github.com/jzjzzzzzzz/agent-me) | Grounded personal Q&A framework with local retrieval and multilingual UI. | <code>Python</code> <code>FastAPI</code> <code>React</code> |
+| [**Human API**](https://github.com/jzjzzzzzzz/human-api) | OpenAI-compatible human-response queue with transactional coordination. | <code>PostgreSQL</code> <code>FastAPI</code> <code>React</code> |
 | [**IntentForge**](https://github.com/jzjzzzzzzz/IntentForge) | Deterministic CAD generation with explicit intent schemas and validation. | `Python` `CadQuery` `MCP` |
 | [**dot-studio**](https://github.com/jzjzzzzzzz/dot-studio) | Local-first console for composing and delivering content to connected displays. | `TypeScript` `Next.js` `Canvas` |
 | [**pcr532-development-platform**](https://github.com/jzjzzzzzzz/pcr532-development-platform) | Browser-based NFC diagnostics, reading, and controlled card-writing workflows. | `TypeScript` `Web Serial` `NFC` |
@@ -80,7 +114,7 @@ Generated artifact
 Tests, benchmarks, and real use
 ```
 
-I am especially interested in **domain-specific agents**: tools that can reject bad prompts, ask for missing constraints, produce structured outputs, and verify their own results.
+I am especially interested in **domain-specific and human-in-the-loop agents**: systems that ground answers in visible evidence, reject invalid inputs, request missing constraints, produce structured outputs, coordinate people safely, and verify results.
 
 ---
 
