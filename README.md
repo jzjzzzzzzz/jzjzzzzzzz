@@ -107,12 +107,12 @@ Clear schemas · safe defaults · reproducible examples · readable docs · test
   <img
     src="./profile/stats-en.svg"
     alt="Zhixuan Zhou's GitHub stats and contribution rank"
-    width="49%"
+    height="180"
   />
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jzjzzzzzzz&amp;theme=tokyonight"
-    alt="GitHub contribution summary"
-    width="49%"
+    src="./profile/top-langs-en.svg"
+    alt="Most used languages"
+    height="180"
   />
 </p>
 
