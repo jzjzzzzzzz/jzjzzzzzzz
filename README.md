@@ -55,7 +55,7 @@ This profile highlights a small set of active, public repositories. The complete
 
 | Project | Focus | Stack |
 |---|---|---|
-| [**Agent-Me**](https://github.com/jzjzzzzzzz/agent-me) | Grounded personal Q&A framework with local retrieval and multilingual UI. | <code>Python</code> <code>FastAPI</code> <code>React</code> |
+| [**Agent-Me**](https://github.com/jzjzzzzzzz/agent-me) | Production personal AI agent with typed orchestration, hybrid RAG, citations, and a knowledge graph. | <code>Python</code> <code>FastAPI</code> <code>React</code> |
 | [**Human API**](https://github.com/jzjzzzzzzz/human-api) | OpenAI-compatible human-response queue with transactional coordination. | <code>PostgreSQL</code> <code>FastAPI</code> <code>React</code> |
 | [**IntentForge**](https://github.com/jzjzzzzzzz/IntentForge) | Deterministic CAD generation with explicit intent schemas and validation. | `Python` `CadQuery` `MCP` |
 | [**dot-studio**](https://github.com/jzjzzzzzzz/dot-studio) | Local-first console for composing and delivering content to connected displays. | `TypeScript` `Next.js` `Canvas` |
@@ -109,6 +109,14 @@ Clear schemas · safe defaults · reproducible examples · readable docs · test
 ---
 
 ## GitHub Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=jzjzzzzzzz&amp;show_icons=true&amp;theme=github_dark&amp;locale=cn&amp;include_all_commits=true"
+    alt="John Zhou GitHub contribution level"
+    width="100%"
+  />
+</p>
 
 <p align="center">
   <img
