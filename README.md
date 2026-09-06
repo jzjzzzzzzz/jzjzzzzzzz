@@ -5,17 +5,7 @@
   Grounded Agents · Human-in-the-Loop APIs · Automation · Computer Vision · Scientific Modeling
 </p>
 
-<p align="center">
-  <a href="https://github.com/jzjzzzzzzz">
-    <img src="https://komarev.com/ghpvc/?username=jzjzzzzzzz&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  </a>
-  <a href="https://github.com/jzjzzzzzzz?tab=followers">
-    <img src="https://img.shields.io/github/followers/jzjzzzzzzz?label=Followers&style=flat&logo=github" alt="GitHub followers" />
-  </a>
-  <a href="https://github.com/jzjzzzzzzz?tab=repositories">
-    <img src="https://img.shields.io/github/stars/jzjzzzzzzz?affiliations=OWNER&style=flat&logo=github&label=Total%20stars" alt="GitHub stars" />
-  </a>
-</p>
+
 
 <p align="center">
   <img src="./assets/banner.svg" alt="John Zhou GitHub Banner" width="100%" />
@@ -28,6 +18,8 @@
 | Destination | Description |
 |---|---|
 | [**jz-ai-chat.com**](https://jz-ai-chat.com) | Live portfolio, project showcase, and interactive agent |
+| [**Agent-Me**](https://github.com/jzjzzzzzzz/agent-me) | A small knowledge-base app for asking questions over your own Markdown notes |
+| [**Human API**](https://github.com/jzjzzzzzzz/human-api) | Self-hosted OpenAI-compatible API backed by a shared human response queue |
 | [**All repositories**](https://github.com/jzjzzzzzzz?tab=repositories) | Complete public project catalog |
 
 ---
@@ -49,13 +41,28 @@ My main interests are:
 
 ---
 
+## Featured Agent Infrastructure
+
+These projects package the agent architecture behind my work into reusable, privacy-safe foundations that other developers can run and extend.
+
+| Project | Purpose | Highlights |
+|---|---|---|
+| [**Agent-Me**](https://github.com/jzjzzzzzzz/agent-me) | Ask questions over your own Markdown notes, with answers tied back to the files you provide. | FastAPI · React · local retrieval · multilingual UI · Docker |
+| [**Human API**](https://github.com/jzjzzzzzzz/human-api) | Expose an OpenAI-compatible endpoint whose responses are written by authorized human responders. | PostgreSQL · atomic claims · stable completion IDs · shared queue · API-key security · audit events |
+
+
+
+Both repositories use clean public histories and contain no production database, private memory, user records, credentials, or deployment secrets.
+
+---
+
 ## Selected Projects
 
 This profile highlights a small set of active, public repositories. The complete catalog remains available on the [Repositories](https://github.com/jzjzzzzzzz?tab=repositories) tab.
 
 | Project | Focus | Stack |
 |---|---|---|
-| [**Agent-Me**](https://github.com/jzjzzzzzzz/agent-me) | Grounded personal Q&A framework with local retrieval and multilingual UI. | <code>Python</code> <code>FastAPI</code> <code>React</code> |
+| [**Agent-Me**](https://github.com/jzjzzzzzzz/agent-me) | Markdown knowledge-base app with local retrieval and multilingual UI. | <code>Python</code> <code>FastAPI</code> <code>React</code> |
 | [**Human API**](https://github.com/jzjzzzzzzz/human-api) | OpenAI-compatible human-response queue with transactional coordination. | <code>PostgreSQL</code> <code>FastAPI</code> <code>React</code> |
 | [**IntentForge**](https://github.com/jzjzzzzzzz/IntentForge) | Deterministic CAD generation with explicit intent schemas and validation. | `Python` `CadQuery` `MCP` |
 | [**dot-studio**](https://github.com/jzjzzzzzzz/dot-studio) | Local-first console for composing and delivering content to connected displays. | `TypeScript` `Next.js` `Canvas` |
@@ -108,32 +115,14 @@ Clear schemas · safe defaults · reproducible examples · readable docs · test
 
 ---
 
-## GitHub Activity
+## Contribution Activity
 
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jzjzzzzzzz&theme=tokyonight"
-    alt="GitHub profile summary"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jzjzzzzzzz&theme=github_dark"
+    alt="GitHub contribution levels and recent activity"
     width="100%"
   />
-</p>
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/jzjzzzzzzz/jzjzzzzzzz/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/jzjzzzzzzz/jzjzzzzzzz/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      alt="GitHub contribution snake animation"
-      src="https://raw.githubusercontent.com/jzjzzzzzzz/jzjzzzzzzz/output/github-contribution-grid-snake.svg"
-      width="100%"
-    />
-  </picture>
 </p>
 
 ---
