@@ -105,17 +105,14 @@ Clear schemas · safe defaults · reproducible examples · readable docs · test
 
 <p align="center">
   <img
-    src="./profile/stats.svg"
-    alt="John Zhou GitHub contribution level"
-    width="100%"
+    src="./profile/stats-en.svg"
+    alt="Zhixuan Zhou's GitHub stats and contribution rank"
+    width="49%"
   />
-</p>
-
-<p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jzjzzzzzzz&theme=tokyonight"
-    alt="GitHub profile summary"
-    width="100%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jzjzzzzzzz&amp;theme=tokyonight"
+    alt="GitHub contribution summary"
+    width="49%"
   />
 </p>
 
