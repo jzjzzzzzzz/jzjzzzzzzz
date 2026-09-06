@@ -14,10 +14,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="./assets/banner.svg" alt="John Zhou GitHub Banner" width="100%" />
-</p>
-
 ---
 
 ## Explore
