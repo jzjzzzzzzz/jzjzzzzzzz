@@ -104,16 +104,8 @@ Clear schemas · safe defaults · reproducible examples · readable docs · test
 ## GitHub Activity
 
 <p align="center">
-  <img
-    src="./profile/stats-en.svg"
-    alt="Zhixuan Zhou's GitHub stats and contribution rank"
-    height="180"
-  />
-  <img
-    src="./profile/top-langs-en.svg"
-    alt="Most used languages"
-    height="180"
-  />
+  <img src="./profile/stats-en.svg" alt="Zhixuan Zhou's GitHub stats and contribution rank" width="48%" />
+  <img src="./profile/top-langs-en.svg" alt="Most used languages" width="48%" />
 </p>
 
 <p align="center">
