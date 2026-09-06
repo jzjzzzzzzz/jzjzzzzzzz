@@ -105,7 +105,7 @@ Clear schemas · safe defaults · reproducible examples · readable docs · test
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=jzjzzzzzzz&amp;show_icons=true&amp;theme=github_dark&amp;locale=cn&amp;include_all_commits=true"
+    src="./profile/stats.svg"
     alt="John Zhou GitHub contribution level"
     width="100%"
   />
