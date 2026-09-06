@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm John Zhou 👋</h1>
+<h1 align="center">Hi, I'm Zhixuan (John) Zhou 👋</h1>
 
 <p align="center">
   <b>Open-source AI systems and research software</b><br/>
