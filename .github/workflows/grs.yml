@@ -22,10 +22,18 @@ jobs:
           path: profile/stats-en.svg
           token: ${{ secrets.GH_STATS_TOKEN }}
 
-      - name: Commit stats card
+      - name: Generate top languages card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&theme=github_dark&locale=en
+          path: profile/top-langs-en.svg
+          token: ${{ secrets.GH_STATS_TOKEN }}
+
+      - name: Commit stats cards
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile/stats-en.svg
+          git add profile/stats-en.svg profile/top-langs-en.svg
           git diff --cached --quiet || git commit -m "chore(profile): refresh GitHub stats card"
           git push
