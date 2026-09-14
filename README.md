@@ -14,6 +14,18 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/jzjzzzzzzz">
+    <img src="https://komarev.com/ghpvc/?username=jzjzzzzzzz&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="Profile views" />
+  </a>
+  <a href="https://github.com/jzjzzzzzzz?tab=followers">
+    <img src="https://img.shields.io/github/followers/jzjzzzzzzz?label=Followers&amp;style=flat&amp;logo=github" alt="GitHub followers" />
+  </a>
+  <a href="https://github.com/jzjzzzzzzz?tab=repositories">
+    <img src="https://img.shields.io/github/stars/jzjzzzzzzz?affiliations=OWNER&amp;style=flat&amp;logo=github&amp;label=Total%20stars" alt="GitHub stars" />
+  </a>
+</p>
+
 ---
 
 ## Explore
