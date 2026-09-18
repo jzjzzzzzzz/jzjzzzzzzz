@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Zhixuan (John) Zhou 👋</h1>
 
 <p align="center">
-  <b>Founder &amp; Chairman, Shigou Intelligent Technology (Shanghai) Co., Ltd.</b><br/>
-  <a href="https://github.com/Cogstruct-ai"><b>@Cogstruct-ai</b></a><br/>
   <b>Open-source AI systems and research software</b><br/>
   Grounded Agents · Human-in-the-Loop APIs · Automation · Computer Vision · Scientific Modeling
 </p>
