@@ -1,6 +1,8 @@
 <h1 align="center">Hi, I'm Zhixuan (John) Zhou 👋</h1>
 
 <p align="center">
+  <b>Founder &amp; Chairman, Shigou Intelligent Technology (Shanghai) Co., Ltd.</b><br/>
+  <a href="https://github.com/Cogstruct-ai"><b>@Cogstruct-ai</b></a><br/>
   <b>Open-source AI systems and research software</b><br/>
   Grounded Agents · Human-in-the-Loop APIs · Automation · Computer Vision · Scientific Modeling
 </p>
@@ -39,7 +41,7 @@
 
 ## About Me
 
-I am a student at **Princeton International School of Mathematics and Science**.  
+I am the **Founder and Chairman of Shigou Intelligent Technology (Shanghai) Co., Ltd.**, building at [**@Cogstruct-ai**](https://github.com/Cogstruct-ai). I am also a student at **Princeton International School of Mathematics and Science**.<br/>
 I build open-source systems that turn ambiguous real-world problems into transparent, testable software: typed schemas, retrieval pipelines, human-in-the-loop workflows, validators, simulations, and automation with safe defaults.
 
 My main interests are:
