@@ -34,7 +34,7 @@
 |---|---|
 | [**jz-ai-chat.com**](https://jz-ai-chat.com) | Live portfolio, project showcase, and interactive agent |
 | [**Cogstruct AI**](https://github.com/Cogstruct-ai) | Building user-controlled, evidence-grounded AI Twins with persistent memory and human control |
-| [**CyberMemoir**](https://github.com/CyberMemoir) | Evidence-first infrastructure for preserving and researching internet culture |
+| [**CyberMemoir**](https://github.com/CyberMemoir) | A Cogstruct AI open-source initiative for evidence-first internet culture memory |
 | [**All repositories**](https://github.com/jzjzzzzzzz?tab=repositories) | Complete public project catalog |
 
 ---
