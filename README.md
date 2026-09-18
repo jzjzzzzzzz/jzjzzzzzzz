@@ -73,7 +73,7 @@ This profile highlights a small set of active, public repositories. The complete
 | [**algae-research-toolkit**](https://github.com/jzjzzzzzzz/algae-research-toolkit) | Consolidated algae simulation, PPO experiments, exposure logging, and analysis. | `Python` `Gymnasium` `Research` |
 | [**music-score-toolkit**](https://github.com/jzjzzzzzzz/music-score-toolkit) | Testable MuseScore transposition and explicit score-conversion workflows. | `Python` `MSCZ` `MusicXML` |
 | [**PDFtoMSCZ**](https://github.com/jzjzzzzzzz/PDFtoMSCZ) | PDF-to-editable-score workflow using Audiveris OMR and MuseScore 4. | `Python` `OMR` `MuseScore` |
-| [**internet-meme-radar-skill**](https://github.com/jzjzzzzzzz/internet-meme-radar-skill) | Evidence-based research workflow for fast-moving internet culture. | `Python` `Research` `Codex` |
+| [**internet-meme-radar-skill**](https://github.com/CyberMemoir/internet-meme-radar-skill) | Evidence-based research workflow for fast-moving internet culture. | `Python` `Research` `Codex` |
 
 ---
 
