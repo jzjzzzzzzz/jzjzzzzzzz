@@ -35,6 +35,7 @@
 | [**jz-ai-chat.com**](https://jz-ai-chat.com) | Live portfolio, project showcase, and interactive agent |
 | [**Cogstruct AI**](https://github.com/Cogstruct-ai) | Building user-controlled, evidence-grounded AI Twins with persistent memory and human control |
 | [**CyberMemoir**](https://github.com/CyberMemoir) | A Cogstruct AI open-source initiative for evidence-first internet culture memory |
+| [**REFR/ACT**](https://github.com/REFR-ACT) | A student-led hackathon at PRISMS; [English playbook](https://github.com/REFR-ACT/Hackathon-Playbook) · [中文手册](https://github.com/REFR-ACT/Hackathon-Playbook/blob/main/README.zh.md) |
 | [**All repositories**](https://github.com/jzjzzzzzzz?tab=repositories) | Complete public project catalog |
 
 ---
@@ -74,6 +75,20 @@ This profile highlights a small set of active, public repositories. The complete
 | [**music-score-toolkit**](https://github.com/jzjzzzzzzz/music-score-toolkit) | Testable MuseScore transposition and explicit score-conversion workflows. | `Python` `MSCZ` `MusicXML` |
 | [**PDFtoMSCZ**](https://github.com/jzjzzzzzzz/PDFtoMSCZ) | PDF-to-editable-score workflow using Audiveris OMR and MuseScore 4. | `Python` `OMR` `MuseScore` |
 | [**internet-meme-radar-skill**](https://github.com/CyberMemoir/internet-meme-radar-skill) | Evidence-based research workflow for fast-moving internet culture. | `Python` `Research` `Codex` |
+
+---
+
+## REFR/ACT — Building with People in Mind
+
+I’m helping organize [**REFR/ACT**](https://github.com/REFR-ACT), a student-led hackathon at PRISMS. We want to start one question before “What can we build?”: **Whose problem is this, and would what we make actually help?**
+
+The name comes from refraction: an idea should be allowed to change direction when it meets other people’s needs, feedback, and real-world constraints. For me, it is also a way to bring STEM learning into making something another person can actually try.
+
+We are preparing our first event: a **PRISMS House Game individual qualifier** to select or form two school representative teams and test the format, followed by a main hackathon proposed for **April 17, 2027**, subject to school approval.
+
+Our text-only, bilingual [**Hackathon Playbook**](https://github.com/REFR-ACT/Hackathon-Playbook) brings together the purpose, symbol story, participant experience, organizing SOP, and future plans—from project follow-ups to handing the organization on to younger students.
+
+[Organization](https://github.com/REFR-ACT) · [English playbook](https://github.com/REFR-ACT/Hackathon-Playbook) · [中文手册](https://github.com/REFR-ACT/Hackathon-Playbook/blob/main/README.zh.md)
 
 ---
 
