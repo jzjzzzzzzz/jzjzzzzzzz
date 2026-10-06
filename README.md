@@ -1,10 +1,17 @@
-<p align="center">
-  <img src="./assets/banner.svg" alt="Zhixuan (John) Zhou — building systems that work. Animated network connecting open-source ideas." width="100%" />
-</p>
+<h1 align="center">Hi, I'm Zhixuan (John) Zhou 👋</h1>
 
 <p align="center">
   <b>Open-source AI systems and research software</b><br/>
   Grounded Agents · Human-in-the-Loop APIs · Automation · Computer Vision · Scientific Modeling
+</p>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;duration=3200&amp;pause=800&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=900&amp;height=45&amp;lines=Building+tools+I+actually+want+to+use.;Turning+messy+problems+into+working+software.;Agents%2C+automation%2C+computer+vision%2C+and+research+tools.;Always+testing+the+next+idea."
+      alt="Scrolling project notes"
+    />
+  </a>
 </p>
 
 <p align="center">
