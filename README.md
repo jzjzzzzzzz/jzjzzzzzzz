@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;duration=3200&amp;pause=800&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=900&amp;height=45&amp;lines=Building+tools+I+actually+want+to+use.;Turning+messy+problems+into+working+software.;Agents%2C+automation%2C+computer+vision%2C+and+research+tools.;Always+testing+the+next+idea."
+      src="https://raw.githubusercontent.com/jzjzzzzzzz/jzjzzzzzzz/main/assets/typing.svg"
       alt="Scrolling project notes"
     />
   </a>
@@ -16,13 +16,13 @@
 
 <p align="center">
   <a href="https://github.com/jzjzzzzzzz">
-    <img src="https://komarev.com/ghpvc/?username=jzjzzzzzzz&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=jzjzzzzzzz&amp;label=Profile+views&amp;color=0e75b6&amp;style=flat-square" alt="Profile views" />
   </a>
   <a href="https://github.com/jzjzzzzzzz?tab=followers">
-    <img src="https://img.shields.io/github/followers/jzjzzzzzzz?label=Followers&amp;style=flat&amp;logo=github" alt="GitHub followers" />
+    <img src="https://raw.githubusercontent.com/jzjzzzzzzz/jzjzzzzzzz/main/profile/followers.svg" alt="GitHub followers" />
   </a>
   <a href="https://github.com/jzjzzzzzzz?tab=repositories">
-    <img src="https://img.shields.io/github/stars/jzjzzzzzzz?affiliations=OWNER&amp;style=flat&amp;logo=github&amp;label=Total%20stars" alt="GitHub stars" />
+    <img src="https://raw.githubusercontent.com/jzjzzzzzzz/jzjzzzzzzz/main/profile/stars.svg" alt="GitHub stars" />
   </a>
 </p>
 
@@ -113,7 +113,7 @@ I am especially interested in **domain-specific and human-in-the-loop agents**: 
 ## Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,fastapi,flask,opencv,github,git,vscode,apple" />
+  <img src="https://raw.githubusercontent.com/jzjzzzzzzz/jzjzzzzzzz/main/assets/skills.svg" alt="Python, Java, C++, JavaScript, HTML, CSS, FastAPI, Flask, OpenCV, GitHub, Git, VS Code, and macOS" width="100%" />
 </p>
 
 **Languages**  
@@ -133,8 +133,8 @@ Clear schemas · safe defaults · reproducible examples · readable docs · test
 ## GitHub Activity
 
 <p align="center">
-  <img src="./profile/stats-en.svg" alt="Zhixuan Zhou's GitHub stats and contribution rank" width="48%" />
-  <img src="./profile/top-langs-en.svg" alt="Most used languages" width="48%" />
+  <img src="https://raw.githubusercontent.com/jzjzzzzzzz/jzjzzzzzzz/main/profile/stats-en.svg" alt="Zhixuan Zhou's GitHub stats and contribution rank" width="48%" />
+  <img src="https://raw.githubusercontent.com/jzjzzzzzzz/jzjzzzzzzz/main/profile/top-langs-en.svg" alt="Most used languages" width="48%" />
 </p>
 
 <p align="center">

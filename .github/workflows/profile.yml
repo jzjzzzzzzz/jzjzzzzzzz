@@ -4,15 +4,21 @@ on:
   pull_request:
     paths:
       - README.md
-      - scripts/validate_profile.py
-      - .github/workflows/profile.yml
+      - scripts/**
+      - tests/**
+      - assets/**
+      - profile/**
+      - .github/workflows/**
   push:
     branches:
       - main
     paths:
       - README.md
-      - scripts/validate_profile.py
-      - .github/workflows/profile.yml
+      - scripts/**
+      - tests/**
+      - assets/**
+      - profile/**
+      - .github/workflows/**
   workflow_dispatch:
 
 permissions:
@@ -26,7 +32,10 @@ jobs:
       - name: Check out repository
         uses: actions/checkout@v6
 
-      - name: Validate curated repository links
+      - name: Run profile regression tests
+        run: python3 -m unittest discover -s tests -v
+
+      - name: Validate profile images and curated repository links
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python3 scripts/validate_profile.py README.md
