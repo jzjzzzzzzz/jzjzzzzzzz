@@ -15,8 +15,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/jzjzzzzzzz?tab=repositories">
-    <img src="https://raw.githubusercontent.com/jzjzzzzzzz/jzjzzzzzzz/main/profile/repositories.svg" alt="Public GitHub repositories" />
+  <a href="https://github.com/jzjzzzzzzz">
+    <img src="https://komarev.com/ghpvc/?username=jzjzzzzzzz&amp;style=flat&amp;color=0e75b6&amp;label=Profile+views" alt="Profile views" />
   </a>
   <a href="https://github.com/jzjzzzzzzz?tab=followers">
     <img src="https://raw.githubusercontent.com/jzjzzzzzzz/jzjzzzzzzz/main/profile/followers.svg" alt="GitHub followers" />

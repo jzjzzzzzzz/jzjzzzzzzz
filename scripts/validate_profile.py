@@ -57,7 +57,7 @@ def validate_assets(readme: Path) -> list[str]:
         elif not urlparse(source).scheme and not source.startswith("//"):
             relative = urlparse(source).path
         else:
-            # The output-branch snake is not a local file on main.
+            # The live view counter and output-branch snake are not local files.
             continue
         asset = (root / unquote(relative)).resolve()
         if not asset.is_relative_to(root):

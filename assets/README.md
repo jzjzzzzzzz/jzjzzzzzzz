@@ -9,11 +9,11 @@ profile does not need their upstream rendering services at page-load time.
   for `python,java,cpp,js,html,css,fastapi,flask,opencv,github,git,vscode,apple`.
 - Upstream MIT notices are preserved in `licenses/`.
 
-Repository, follower, and star badges in `profile/` are generated directly from
-public GitHub API data by `python3 scripts/update_profile_badges.py`. The daily stats workflow
+Follower and star badges in `profile/` are generated directly from public GitHub
+API data by `python3 scripts/update_profile_badges.py`. The daily stats workflow
 refreshes them alongside the stats cards. Failed refreshes do not replace the
-published images with error cards. The unreliable third-party view counter is
-replaced by the public repository count; no view count is fabricated or frozen.
+published images with error cards. The Komarev view counter stays live so visits
+continue to be counted; it is intentionally not a static snapshot.
 
 Run the offline checks before publishing:
 

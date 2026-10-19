@@ -4,10 +4,23 @@ from pathlib import Path
 from tempfile import TemporaryDirectory
 import unittest
 from unittest.mock import patch
+from urllib.parse import parse_qs, urlparse
 from xml.etree import ElementTree
 
 from scripts import update_profile_badges as badges
-from scripts.validate_profile import RAW_PREFIX, SVG_TAG, validate_assets
+from scripts.validate_profile import ProfileImages, RAW_PREFIX, SVG_TAG, validate_assets
+
+
+class ReadmeTests(unittest.TestCase):
+    def test_live_profile_views_are_preserved(self):
+        readme = Path(__file__).resolve().parent.parent / "README.md"
+        images = ProfileImages()
+        images.feed(readme.read_text(encoding="utf-8"))
+        counters = [urlparse(src) for src in images.sources if "komarev.com/ghpvc/" in src]
+        self.assertEqual(len(counters), 1)
+        self.assertEqual(parse_qs(counters[0].query)["username"], [badges.OWNER])
+        self.assertEqual(parse_qs(counters[0].query)["label"], ["Profile views"])
+        self.assertFalse(any(src.endswith("/repositories.svg") for src in images.sources))
 
 
 class BadgeTests(unittest.TestCase):
@@ -31,11 +44,11 @@ class BadgeTests(unittest.TestCase):
                 "stargazers_count": stars,
             }
         request.side_effect = [
-            {"followers": 15, "public_repos": 41},
+            {"followers": 15},
             [repository(5)] * 100,
             [repository(3), repository(900, private=True), repository(100, owner="other")],
         ]
-        self.assertEqual(badges.public_counts(), (15, 503, 41))
+        self.assertEqual(badges.public_counts(), (15, 503))
         self.assertIn("page=2", request.call_args.args[0])
 
     def test_failed_refresh_preserves_existing_badges(self):
