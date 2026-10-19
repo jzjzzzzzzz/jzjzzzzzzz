@@ -33,9 +33,10 @@ def count(value: object) -> int:
     return value
 
 
-def public_counts() -> tuple[int, int]:
+def public_counts() -> tuple[int, int, int]:
     user = github_json(f"/users/{OWNER}")
     followers = count(user["followers"])
+    public_repositories = count(user["public_repos"])
     stars = 0
     page = 1
     while True:
@@ -52,7 +53,7 @@ def public_counts() -> tuple[int, int]:
             ):
                 stars += count(repository["stargazers_count"])
         if len(repositories) < 100:
-            return followers, stars
+            return followers, stars, public_repositories
         page += 1
 
 
@@ -79,9 +80,10 @@ def badge_svg(label: str, value: int) -> str:
 
 def main() -> None:
     # Finish every request before touching the last-known-good assets.
-    followers, stars = public_counts()
+    followers, stars, public_repositories = public_counts()
     PROFILE.mkdir(exist_ok=True)
     for name, label, value in (
+        ("repositories", "Public repos", public_repositories),
         ("followers", "Followers", followers),
         ("stars", "Total stars", stars),
     ):
@@ -89,7 +91,10 @@ def main() -> None:
         temporary = target.with_suffix(".svg.tmp")
         temporary.write_text(badge_svg(label, value), encoding="utf-8")
         temporary.replace(target)
-    print(f"Updated public badges: {followers} followers, {stars} stars.")
+    print(
+        f"Updated public badges: {public_repositories} repositories, "
+        f"{followers} followers, {stars} stars."
+    )
 
 
 if __name__ == "__main__":

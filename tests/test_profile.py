@@ -31,11 +31,11 @@ class BadgeTests(unittest.TestCase):
                 "stargazers_count": stars,
             }
         request.side_effect = [
-            {"followers": 15},
+            {"followers": 15, "public_repos": 41},
             [repository(5)] * 100,
             [repository(3), repository(900, private=True), repository(100, owner="other")],
         ]
-        self.assertEqual(badges.public_counts(), (15, 503))
+        self.assertEqual(badges.public_counts(), (15, 503, 41))
         self.assertIn("page=2", request.call_args.args[0])
 
     def test_failed_refresh_preserves_existing_badges(self):
