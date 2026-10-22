@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Zhixuan Zhou's GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 684, Total Commits  : 1477, Total PRs: 189, Total Issues: 165, Contributed to (last year): 23</desc>
+        <desc id="descId">Total Stars Earned: 635, Total Commits  : 1478, Total PRs: 190, Total Issues: 165, Contributed to (last year): 24</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 33.92210304927735;
+        stroke-dashoffset: 34.256929806047154;
       }
     }
   
@@ -162,7 +162,7 @@
         x="219.01"
         y="12.5"
         data-testid="stars"
-      >684</text>
+      >635</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
@@ -192,7 +192,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs"
-      >189</text>
+      >190</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -222,7 +222,7 @@
         x="219.01"
         y="12.5"
         data-testid="contribs"
-      >23</text>
+      >24</text>
     </g>
   </g>
     </svg>
