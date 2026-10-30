@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="130" height="20" viewBox="0 0 130 20" role="img" aria-label="Total stars: 660">
-  <title>Total stars: 660</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="130" height="20" viewBox="0 0 130 20" role="img" aria-label="Total stars: 670">
+  <title>Total stars: 670</title>
   <clipPath id="badge"><rect width="130" height="20" rx="3"/></clipPath>
   <g clip-path="url(#badge)">
     <path fill="#555" d="M0 0h93v20H0z"/>
@@ -7,6 +7,6 @@
   </g>
   <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="11">
     <text x="46.5" y="14">Total stars</text>
-    <text x="111.5" y="14">660</text>
+    <text x="111.5" y="14">670</text>
   </g>
 </svg>
