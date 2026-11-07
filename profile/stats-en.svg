@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Zhixuan Zhou's GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 679, Total Commits  : 1516, Total PRs: 197, Total Issues: 168, Contributed to (last year): 25</desc>
+        <desc id="descId">Total Stars Earned: 679, Total Commits  : 1524, Total PRs: 197, Total Issues: 168, Contributed to (last year): 25</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 33.06237913580217;
+        stroke-dashoffset: 32.98138771450517;
       }
     }
   
